@@ -1,0 +1,12 @@
+/Users/amirossanloo/Desktop/Amir Ossanloo/Repos/csharp-learning/1-hello-world/bin/Debug/netcoreapp3.1/1-hello-world.deps.json
+/Users/amirossanloo/Desktop/Amir Ossanloo/Repos/csharp-learning/1-hello-world/bin/Debug/netcoreapp3.1/1-hello-world.runtimeconfig.json
+/Users/amirossanloo/Desktop/Amir Ossanloo/Repos/csharp-learning/1-hello-world/bin/Debug/netcoreapp3.1/1-hello-world.runtimeconfig.dev.json
+/Users/amirossanloo/Desktop/Amir Ossanloo/Repos/csharp-learning/1-hello-world/bin/Debug/netcoreapp3.1/1-hello-world.dll
+/Users/amirossanloo/Desktop/Amir Ossanloo/Repos/csharp-learning/1-hello-world/bin/Debug/netcoreapp3.1/1-hello-world.pdb
+/Users/amirossanloo/Desktop/Amir Ossanloo/Repos/csharp-learning/1-hello-world/obj/Debug/netcoreapp3.1/1-hello-world.csprojAssemblyReference.cache
+/Users/amirossanloo/Desktop/Amir Ossanloo/Repos/csharp-learning/1-hello-world/obj/Debug/netcoreapp3.1/1-hello-world.AssemblyInfoInputs.cache
+/Users/amirossanloo/Desktop/Amir Ossanloo/Repos/csharp-learning/1-hello-world/obj/Debug/netcoreapp3.1/1-hello-world.AssemblyInfo.cs
+/Users/amirossanloo/Desktop/Amir Ossanloo/Repos/csharp-learning/1-hello-world/obj/Debug/netcoreapp3.1/1-hello-world.csproj.CoreCompileInputs.cache
+/Users/amirossanloo/Desktop/Amir Ossanloo/Repos/csharp-learning/1-hello-world/obj/Debug/netcoreapp3.1/1-hello-world.dll
+/Users/amirossanloo/Desktop/Amir Ossanloo/Repos/csharp-learning/1-hello-world/obj/Debug/netcoreapp3.1/1-hello-world.pdb
+/Users/amirossanloo/Desktop/Amir Ossanloo/Repos/csharp-learning/1-hello-world/obj/Debug/netcoreapp3.1/1-hello-world.genruntimeconfig.cache
