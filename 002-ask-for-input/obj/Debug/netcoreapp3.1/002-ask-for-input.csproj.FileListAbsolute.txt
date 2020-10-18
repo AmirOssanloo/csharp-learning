@@ -1,0 +1,12 @@
+/Users/amirossanloo/Desktop/Amir Ossanloo/Repos/csharp-learning/002-ask-for-input/obj/Debug/netcoreapp3.1/002-ask-for-input.csprojAssemblyReference.cache
+/Users/amirossanloo/Desktop/Amir Ossanloo/Repos/csharp-learning/002-ask-for-input/obj/Debug/netcoreapp3.1/002-ask-for-input.AssemblyInfoInputs.cache
+/Users/amirossanloo/Desktop/Amir Ossanloo/Repos/csharp-learning/002-ask-for-input/obj/Debug/netcoreapp3.1/002-ask-for-input.AssemblyInfo.cs
+/Users/amirossanloo/Desktop/Amir Ossanloo/Repos/csharp-learning/002-ask-for-input/obj/Debug/netcoreapp3.1/002-ask-for-input.csproj.CoreCompileInputs.cache
+/Users/amirossanloo/Desktop/Amir Ossanloo/Repos/csharp-learning/002-ask-for-input/bin/Debug/netcoreapp3.1/002-ask-for-input.deps.json
+/Users/amirossanloo/Desktop/Amir Ossanloo/Repos/csharp-learning/002-ask-for-input/bin/Debug/netcoreapp3.1/002-ask-for-input.runtimeconfig.json
+/Users/amirossanloo/Desktop/Amir Ossanloo/Repos/csharp-learning/002-ask-for-input/bin/Debug/netcoreapp3.1/002-ask-for-input.runtimeconfig.dev.json
+/Users/amirossanloo/Desktop/Amir Ossanloo/Repos/csharp-learning/002-ask-for-input/bin/Debug/netcoreapp3.1/002-ask-for-input.dll
+/Users/amirossanloo/Desktop/Amir Ossanloo/Repos/csharp-learning/002-ask-for-input/bin/Debug/netcoreapp3.1/002-ask-for-input.pdb
+/Users/amirossanloo/Desktop/Amir Ossanloo/Repos/csharp-learning/002-ask-for-input/obj/Debug/netcoreapp3.1/002-ask-for-input.dll
+/Users/amirossanloo/Desktop/Amir Ossanloo/Repos/csharp-learning/002-ask-for-input/obj/Debug/netcoreapp3.1/002-ask-for-input.pdb
+/Users/amirossanloo/Desktop/Amir Ossanloo/Repos/csharp-learning/002-ask-for-input/obj/Debug/netcoreapp3.1/002-ask-for-input.genruntimeconfig.cache
