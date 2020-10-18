@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_003_classes</RootNamespace>
+    <RootNamespace>_001_divisible_by_three</RootNamespace>
   </PropertyGroup>
 
 </Project>
