@@ -15,6 +15,7 @@ config/
 # Build directories
 public/
 build/
+out/
 bin/
 obj/
 
