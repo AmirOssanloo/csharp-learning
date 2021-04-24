@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _002_ask_for_input
+namespace CSharpFundamentals
 {
   class Program
   {
